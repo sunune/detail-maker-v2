@@ -1,0 +1,7 @@
+{
+  "name": "Detail Maker AI",
+  "description": "An AI-powered modular product detail page builder for sellers, featuring copy generation with Gemini 3.0 Pro and image studio with Nano Banana.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
